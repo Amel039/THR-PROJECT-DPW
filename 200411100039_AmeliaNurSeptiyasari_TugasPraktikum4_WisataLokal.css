@@ -1,0 +1,80 @@
+body{
+   border: 15px solid transparent;
+   background-color: pink;
+   border-image: url(https://image.freepik.com/free-vector/watercolor-tropical-floral-border-frame_162363-10.jpg) 30 repeat;
+}
+#hr{
+   border-color: black;
+   height: 5px;
+   padding-left: 5px;
+
+}
+#border2 { 
+   text-align: center;
+   border: 25px solid transparent;
+   padding: 15px;
+}
+
+div.latar{
+   width: 350px;
+   height: 250px;
+   background-color:lightblue;
+   box-shadow: 0 3px 6px 0 green, 0 6px 18px 0 blue;
+   margin-bottom: 50px
+  
+}
+div.pulau{
+   text-align: center;
+   padding: 5px 10px;
+   margin-bottom: 50px;
+}
+img{
+   width: 350px;
+   height: 200px;
+}
+.isi{
+   border: 4px solid blue;
+   width: 250px;
+   float: left;
+   
+
+}
+.isi img{
+   width: 250px;
+   height: 150px;
+   padding-bottom: 3px;
+}
+
+.wisata{
+   text-align: center;
+   font-family: Times New Roman;
+}
+h2{
+   text-align: center;
+   font-family: broadway;
+}
+
+[class*="logo"]{
+   position: relative;
+   width: 95px;
+   height: 100px;
+   display: inline-flex;
+   margin-top: 100px;
+}
+.ket{
+   margin-top: 105px;
+   text-align: center;
+   border: 1px solid green;
+
+}
+
+.logo1{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW682DiwuF3a3r-w-Ipm8LB8zO9pZcNarIHg&usqp=CAU") 0 -30px;
+}
+.logo2{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW682DiwuF3a3r-w-Ipm8LB8zO9pZcNarIHg&usqp=CAU") -98px -30px;
+}
+.logo3{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW682DiwuF3a3r-w-Ipm8LB8zO9pZcNarIHg&usqp=CAU") -200px -200px;
+}
+
