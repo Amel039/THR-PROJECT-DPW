@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	font-family: courier new;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+#wrapper{
+	background-image: url("city.jpg");
+	background-size: cover;
+	background-position: center;
+	height:100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center; ;
+}
+
+#wrapper H1{
+	font-size: 55px;
+	font-family: Verdana;
+}
+
+#wrapper hr{
+	border-color:#000000;
+	width:100%;
+	border-style: solid;
+	
+}
+#wrapper p{
+	font-size: 15px;
+}
